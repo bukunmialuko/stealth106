@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="stealth106:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/stealth106_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="stealth106/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="stealth106" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
