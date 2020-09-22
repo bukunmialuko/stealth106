@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="druid-0.2.7">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/druid-0.2.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/druid-wrapper-0.2.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
