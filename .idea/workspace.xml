@@ -7,12 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="68e05307-ed9f-44e1-8b41-872573c7dc35" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/stealth106_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/stealth106_war_exploded.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/stealth106/testdb/TestDbServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/stealth106/testdb/TestDbServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stealth106.iml" beforeDir="false" afterPath="$PROJECT_DIR$/stealth106.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/dispatcher-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,8 +19,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="spring-beans.schema" />
-        <option value="Class" />
         <option value="Jsp File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -51,6 +46,7 @@
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
@@ -180,7 +176,7 @@
       <option name="presentableId" value="Default" />
       <updated>1600811530027</updated>
       <workItem from="1600811531563" duration="3138000" />
-      <workItem from="1600814720289" duration="675000" />
+      <workItem from="1600814720289" duration="1585000" />
     </task>
     <servers />
   </component>
