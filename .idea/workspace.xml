@@ -8,6 +8,16 @@
   <component name="ChangeListManager">
     <list default="true" id="68e05307-ed9f-44e1-8b41-872573c7dc35" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/stealth106_war_exploded/WEB-INF/classes/com/example/stealth106/controller/CustomerController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/stealth106_war_exploded/WEB-INF/classes/com/example/stealth106/controller/CustomerController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/stealth106_war_exploded/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/stealth106_war_exploded/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/stealth106_war_exploded/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/stealth106_war_exploded/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/stealth106_war_exploded/view/list-customers.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/stealth106_war_exploded/view/list-customers.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/stealth106/com/example/stealth106/controller/CustomerController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/stealth106/com/example/stealth106/controller/CustomerController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/stealth106/controller/CustomerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/stealth106/controller/CustomerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stealth106.iml" beforeDir="false" afterPath="$PROJECT_DIR$/stealth106.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/view/list-customers.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/view/list-customers.jsp" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,6 +30,7 @@
       <list>
         <option value="spring-beans.schema" />
         <option value="Jsp File" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -42,8 +53,8 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/web/WEB-INF" />
-    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/jstl-1.2.jar!/" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="Errors" />
@@ -51,6 +62,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\USLUSER\Spring\IdeaProject\stealth106\lib" />
       <recent name="D:\USLUSER\Spring\IdeaProject\stealth106\web\WEB-INF" />
       <recent name="D:\USLUSER\Spring\IdeaProject\stealth106\src" />
     </key>
@@ -176,7 +188,8 @@
       <option name="presentableId" value="Default" />
       <updated>1600811530027</updated>
       <workItem from="1600811531563" duration="3138000" />
-      <workItem from="1600814720289" duration="1585000" />
+      <workItem from="1600814720289" duration="4716000" />
+      <workItem from="1600819478271" duration="778000" />
     </task>
     <servers />
   </component>

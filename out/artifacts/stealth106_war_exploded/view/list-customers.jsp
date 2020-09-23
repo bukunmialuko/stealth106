@@ -1,3 +1,4 @@
+<%--<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>--%>
 <%--
   Created by IntelliJ IDEA.
   User: USLUSER
@@ -5,13 +6,90 @@
   Time: 23:34
   To change this template use File | Settings | File Templates.
 --%>
-<%@ page contentType="text/html;charset=UTF-8" language="java" %>
+<%--<%@ page contentType="text/html;charset=UTF-8" language="java" %>--%>
+<%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
+
+
+<!DOCTYPE html>
+
 <html>
+
 <head>
-    <title>Title</title>
+    <meta charset="ISO-8859-1">
+    <title>List Customers</title>
+
+    <!-- reference our style sheet -->
+
+    <link type="text/css"
+          rel="stylesheet"
+          href="${pageContext.request.contextPath}/resources/css/style.css" />
+
 </head>
+
 <body>
-List Customers - coming soon ...
+
+<div id="wrapper">
+    <div id="header">
+        <h2>CRM - Customer Relationship Manager</h2>
+    </div>
+</div>
+
+<table>
+    <tr>
+        <th>First Name</th>
+        <th>Last Name</th>
+        <th>Email</th>
+    </tr>
+    <c:forEach items="${customers}" var="user" varStatus="tagStatus">
+        <tr>
+            <td>${user.firstName}</td>
+            <td>${user.lastName}</td>
+            <td>${user.email}</td>
+        </tr>
+    </c:forEach>
+</table>
+
+<div id="container">
+
+    <div id="content">
+
+        <!--  add our html table here -->
+
+        <table>
+            <tr>
+                <th>First Name</th>
+                <th>Last Name</th>
+                <th>Email</th>
+            </tr>
+
+            <!-- loop over and print our customers -->
+            <c:forEach var="tempCustomer" items="${customers}">
+
+                <tr>
+                    <td> ${tempCustomer.firstName} </td>
+                    <td> ${tempCustomer.lastName} </td>
+                    <td> ${tempCustomer.email} </td>
+                </tr>
+
+            </c:forEach>
+
+        </table>
+
+    </div>
+
+
+</div>
+
 
 </body>
+
 </html>
+
+
+
+
+
+
+
+
+
