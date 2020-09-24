@@ -1,14 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="JAVA_MODULE" version="4">
   <component name="FacetManager">
-    <facet type="hibernate" name="Hibernate">
-      <configuration>
-        <datasource-map>
-          <unit-entry name="sessionFactory" />
-        </datasource-map>
-        <naming-strategy-map />
-      </configuration>
-    </facet>
     <facet type="web" name="Web">
       <configuration>
         <descriptors>
@@ -22,6 +14,13 @@
     <facet type="Spring" name="Spring">
       <configuration />
     </facet>
+    <facet type="hibernate" name="Hibernate">
+      <configuration>
+        <datasource-map />
+        <naming-strategy-map />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/src/hibernate.cfg.xml" />
+      </configuration>
+    </facet>
   </component>
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
@@ -30,13 +29,14 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="Hibernate 5.4.11-5.4.11" level="project" />
-    <orderEntry type="library" name="Spring-5.2.3.RELEASE" level="project" />
-    <orderEntry type="library" name="Spring MVC-5.2.3.RELEASE" level="project" />
     <orderEntry type="library" name="mysql-connector-java-8.0.21" level="project" />
     <orderEntry type="library" name="javax.servlet-api-3.0.1" level="project" />
     <orderEntry type="library" name="druid-0.2.7" level="project" />
-    <orderEntry type="library" name="jstl-1.1.2" level="project" />
-    <orderEntry type="library" name="jstl-1.2" level="project" />
+    <orderEntry type="library" name="jsp-api-2.0" level="project" />
+    <orderEntry type="library" name="javax.servlet.jsp.jstl-1.2.1" level="project" />
+    <orderEntry type="library" name="gson-2.6.2" level="project" />
+    <orderEntry type="library" name="spring-data-jpa-2.3.3.RELEASE" level="project" />
+    <orderEntry type="library" name="antlr-2.7.7" level="project" />
+    <orderEntry type="library" name="spring-aop-5.0.2.RELEASE-javadoc" level="project" />
   </component>
 </module>

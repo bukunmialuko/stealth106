@@ -7,17 +7,71 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="68e05307-ed9f-44e1-8b41-872573c7dc35" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/stealth106_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/stealth106_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Hibernate_5_4_11_5_4_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Spring_5_2_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Spring_MVC_5_2_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/jstl_1_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/jstl_1_2.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/jstl-1.1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/jstl-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/stealth106_war_exploded/WEB-INF/applicationContext.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/artifacts/stealth106_war_exploded/WEB-INF/classes/com/example/stealth106/controller/CustomerController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/stealth106_war_exploded/WEB-INF/classes/com/example/stealth106/controller/CustomerController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/stealth106_war_exploded/WEB-INF/classes/com/example/stealth106/dao/CustomerDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/stealth106_war_exploded/WEB-INF/classes/com/example/stealth106/dao/CustomerDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/stealth106_war_exploded/WEB-INF/classes/com/example/stealth106/dao/CustomerDAOImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/stealth106_war_exploded/WEB-INF/classes/com/example/stealth106/dao/CustomerDAOImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/stealth106_war_exploded/WEB-INF/dispatcher-servlet.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/stealth106_war_exploded/WEB-INF/lib/FastInfoset-1.2.15.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/stealth106_war_exploded/WEB-INF/lib/aopalliance-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/stealth106_war_exploded/WEB-INF/lib/byte-buddy-1.10.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/stealth106_war_exploded/WEB-INF/lib/classmate-1.5.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/stealth106_war_exploded/WEB-INF/lib/commons-logging-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/stealth106_war_exploded/WEB-INF/lib/dom4j-2.1.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/stealth106_war_exploded/WEB-INF/lib/hibernate-commons-annotations-5.1.0.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/stealth106_war_exploded/WEB-INF/lib/hibernate-core-5.4.11.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/stealth106_war_exploded/WEB-INF/lib/istack-commons-runtime-3.0.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/stealth106_war_exploded/WEB-INF/lib/jandex-2.1.1.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/stealth106_war_exploded/WEB-INF/lib/javassist-3.24.0-GA.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/stealth106_war_exploded/WEB-INF/lib/javax.activation-api-1.2.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/stealth106_war_exploded/WEB-INF/lib/javax.persistence-api-2.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/stealth106_war_exploded/WEB-INF/lib/jaxb-api-2.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/stealth106_war_exploded/WEB-INF/lib/jaxb-runtime-2.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/stealth106_war_exploded/WEB-INF/lib/jboss-logging-3.3.2.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/stealth106_war_exploded/WEB-INF/lib/jboss-transaction-api_1.2_spec-1.1.1.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/stealth106_war_exploded/WEB-INF/lib/spring-aop-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/stealth106_war_exploded/WEB-INF/lib/spring-aspects-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/stealth106_war_exploded/WEB-INF/lib/spring-beans-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/stealth106_war_exploded/WEB-INF/lib/spring-context-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/stealth106_war_exploded/WEB-INF/lib/spring-context-support-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/stealth106_war_exploded/WEB-INF/lib/spring-core-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/stealth106_war_exploded/WEB-INF/lib/spring-expression-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/stealth106_war_exploded/WEB-INF/lib/spring-instrument-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/stealth106_war_exploded/WEB-INF/lib/spring-jdbc-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/stealth106_war_exploded/WEB-INF/lib/spring-jms-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/stealth106_war_exploded/WEB-INF/lib/spring-messaging-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/stealth106_war_exploded/WEB-INF/lib/spring-orm-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/stealth106_war_exploded/WEB-INF/lib/spring-oxm-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/stealth106_war_exploded/WEB-INF/lib/spring-test-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/stealth106_war_exploded/WEB-INF/lib/spring-tx-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/stealth106_war_exploded/WEB-INF/lib/spring-web-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/stealth106_war_exploded/WEB-INF/lib/spring-webmvc-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/stealth106_war_exploded/WEB-INF/lib/stax-ex-1.8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/stealth106_war_exploded/WEB-INF/lib/txw2-2.3.1.jar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/artifacts/stealth106_war_exploded/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/stealth106_war_exploded/WEB-INF/web.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/artifacts/stealth106_war_exploded/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/stealth106_war_exploded/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/stealth106_war_exploded/view/list-customers.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/stealth106_war_exploded/view/list-customers.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/stealth106_war_exploded/view/list-customers.jsp" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/stealth106/com/example/stealth106/controller/CustomerController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/stealth106/com/example/stealth106/controller/CustomerController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/stealth106/com/example/stealth106/dao/CustomerDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/stealth106/com/example/stealth106/dao/CustomerDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/stealth106/com/example/stealth106/dao/CustomerDAOImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/stealth106/com/example/stealth106/dao/CustomerDAOImpl.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/example/stealth106/controller/CustomerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/stealth106/controller/CustomerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/stealth106/dao/CustomerDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/stealth106/dao/CustomerDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/stealth106/dao/CustomerDAOImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/stealth106/dao/CustomerDAOImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/stealth106.iml" beforeDir="false" afterPath="$PROJECT_DIR$/stealth106.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/applicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/dispatcher-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/spring-mvc-crud-demo-servlet.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/view/list-customers.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/view/list-customers.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/view/list-customers.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/view/list-customers.jsp" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,8 +83,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="spring-beans.schema" />
-        <option value="Jsp File" />
         <option value="Interface" />
+        <option value="Jsp File" />
         <option value="Class" />
       </list>
     </option>
@@ -53,8 +107,8 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/jstl-1.2.jar!/" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/web/WEB-INF" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="Errors" />
@@ -62,9 +116,12 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\USLUSER\Spring\IdeaProject\stealth106\lib" />
       <recent name="D:\USLUSER\Spring\IdeaProject\stealth106\web\WEB-INF" />
+      <recent name="D:\USLUSER\Spring\IdeaProject\stealth106\lib" />
       <recent name="D:\USLUSER\Spring\IdeaProject\stealth106\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\USLUSER\Spring\IdeaProject\stealth106\web\WEB-INF" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -79,21 +136,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Tomcat Server.Tomcat">
-    <configuration name="TestDbServlet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.stealth106.testdb.TestDbServlet" />
-      <module name="stealth106" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.stealth106.testdb.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Tomcat" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.37" ALTERNATIVE_JRE_ENABLED="false">
+  <component name="RunManager">
+    <configuration name="Tomcat 9.0.37" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.37" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
       <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8081/stealth106_war_exploded/" />
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
@@ -104,7 +148,7 @@
         </artifact>
       </deployment>
       <server-settings>
-        <option name="BASE_DIRECTORY_NAME" value="Unnamed_stealth106" />
+        <option name="BASE_DIRECTORY_NAME" value="Tomcat_9_0_37_stealth106" />
         <option name="HTTP_PORT" value="8081" />
       </server-settings>
       <predefined_log_file enabled="true" id="Tomcat" />
@@ -113,7 +157,7 @@
       <predefined_log_file id="Tomcat Host Manager" />
       <predefined_log_file id="Tomcat Localhost Access" />
       <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="65099" />
+        <option name="DEBUG_PORT" value="51138" />
       </RunnerSettings>
       <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
         <option name="USE_ENV_VARIABLES" value="true" />
@@ -167,15 +211,70 @@
         </option>
       </method>
     </configuration>
-    <list>
-      <item itemvalue="Application.TestDbServlet" />
-      <item itemvalue="Tomcat Server.Tomcat" />
-    </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.TestDbServlet" />
-      </list>
-    </recent_temporary>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.37" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8081/" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_stealth106" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="51138" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -189,7 +288,13 @@
       <updated>1600811530027</updated>
       <workItem from="1600811531563" duration="3138000" />
       <workItem from="1600814720289" duration="4716000" />
-      <workItem from="1600819478271" duration="778000" />
+      <workItem from="1600819478271" duration="995000" />
+      <workItem from="1600820516848" duration="181000" />
+      <workItem from="1600864354469" duration="3000" />
+      <workItem from="1600883255770" duration="1702000" />
+      <workItem from="1600884995738" duration="6437000" />
+      <workItem from="1600901331916" duration="3437000" />
+      <workItem from="1600967145342" duration="4001000" />
     </task>
     <servers />
   </component>
